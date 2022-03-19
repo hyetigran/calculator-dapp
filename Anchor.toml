@@ -1,0 +1,3 @@
+[provider]
+cluster = "localnet"
+wallet = "/Users/asriyan/.config/solana/devnet.json"
